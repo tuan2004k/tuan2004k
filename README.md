@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [E-commerce](https://github.com/tuan2004k/E_Co_Vnest)
 
-- 👨‍💻 All of my projects are available at [dautuan.com](dautuan.com)
+- 👨‍💻 All of my projects are available at [Dau Minh Tuan](https://github.com/tuan2004k/)
 
 - 📝 I regularly write articles on [dautuan.io.vn](dautuan.io.vn)
 
