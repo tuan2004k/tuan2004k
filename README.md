@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đậu Minh Tuấn</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🔭 I’m currently working on [power_monitoring_system](https://github.com/tuan2004k/electric_manager)
+- 🔭 I’m currently working on [smart_home_system](https://github.com/tuan2004k/smart_home)
 
 - 🌱 I’m currently learning **ReactJs, Python, Tailwind CSS**
 
@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [dautuan.io.vn](dautuan.io.vn)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NESTJS,**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NESTJS,NEXT**
 
 - 📫 How to reach me **dautuan032004@gmail.com**
 
-- 📄 Know about my experiences [dautuan.com](dautuan.com)
+- 📄 Know about my experiences [dautuan.com](smart.dautuan.com)
 
 - ⚡ Fun fact **Sociable, Friendly, Funny**
 
