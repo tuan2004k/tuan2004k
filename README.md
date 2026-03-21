@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dautuan032004@gmail.com**
 
-- 📄 Know about my experiences [dautuan.com](smart.dautuan.com)
+- 📄 Know about my experiences smart.dautuan.com(smart.dautuan.com)
 
 - ⚡ Fun fact **Sociable, Friendly, Funny**
 
